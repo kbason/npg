@@ -1,1 +1,6 @@
-C:\Users\kacpe\Documents\npg\test.txt
+test.txt
+*.pdf
+*.tmp
+*.log
+log
+build
